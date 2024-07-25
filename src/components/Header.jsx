@@ -155,9 +155,9 @@ const Header = () => {
               </ul>
             </nav>
           </div>
-          {/* <div className="header-right">
+          <div className="header-right">
             <Rihgt_Header />
-          </div> */}
+          </div>
         </header>
       </div>
     </div>
